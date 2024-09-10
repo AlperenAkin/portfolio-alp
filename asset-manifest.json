@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio-alp/static/css/main.10e7497e.css",
-    "main.js": "/portfolio-alp/static/js/main.f2de8ccb.js",
+    "main.js": "/portfolio-alp/static/js/main.e7a84b19.js",
     "static/media/ECA2024portfolio.png": "/portfolio-alp/static/media/ECA2024portfolio.154fd99f452e6b53263d.png",
     "static/media/tennisportfolio.png": "/portfolio-alp/static/media/tennisportfolio.4c5ff21a1bb50ddf19d8.png",
     "static/media/IMG_6855.jpg": "/portfolio-alp/static/media/IMG_6855.539f40022da48e976c8d.jpg",
     "static/media/IMG_6857.jpg": "/portfolio-alp/static/media/IMG_6857.b906c6242fe35db7a1cd.jpg",
     "static/media/tictactoeportfolio.png": "/portfolio-alp/static/media/tictactoeportfolio.16fb9a654dcf2787a635.png",
+    "static/media/AlperenAkin-Resume.pdf": "/portfolio-alp/static/media/AlperenAkin-Resume.4561f1b71b91c93d5f1b.pdf",
     "static/media/DBMSportfolio.png": "/portfolio-alp/static/media/DBMSportfolio.f9710adfa2764ef1294f.png",
-    "static/media/Example-Cv.pdf": "/portfolio-alp/static/media/Example-Cv.e83747cf513e0b21a7f1.pdf",
     "index.html": "/portfolio-alp/index.html",
     "main.10e7497e.css.map": "/portfolio-alp/static/css/main.10e7497e.css.map",
-    "main.f2de8ccb.js.map": "/portfolio-alp/static/js/main.f2de8ccb.js.map"
+    "main.e7a84b19.js.map": "/portfolio-alp/static/js/main.e7a84b19.js.map"
   },
   "entrypoints": [
     "static/css/main.10e7497e.css",
-    "static/js/main.f2de8ccb.js"
+    "static/js/main.e7a84b19.js"
   ]
 }
