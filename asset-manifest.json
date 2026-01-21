@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-alp/static/css/main.10e7497e.css",
-    "main.js": "/portfolio-alp/static/js/main.e7a84b19.js",
+    "main.css": "/portfolio-alp/static/css/main.72144d2f.css",
+    "main.js": "/portfolio-alp/static/js/main.34144331.js",
     "static/media/ECA2024portfolio.png": "/portfolio-alp/static/media/ECA2024portfolio.154fd99f452e6b53263d.png",
+    "static/media/ProtfolioHobbiesV2.png": "/portfolio-alp/static/media/ProtfolioHobbiesV2.54e5332e9c2d76a953da.png",
     "static/media/tennisportfolio.png": "/portfolio-alp/static/media/tennisportfolio.4c5ff21a1bb50ddf19d8.png",
+    "static/media/PortfolioHobbies.png": "/portfolio-alp/static/media/PortfolioHobbies.ab4d2c6d9885a61857ff.png",
     "static/media/IMG_6855.jpg": "/portfolio-alp/static/media/IMG_6855.539f40022da48e976c8d.jpg",
-    "static/media/IMG_6857.jpg": "/portfolio-alp/static/media/IMG_6857.b906c6242fe35db7a1cd.jpg",
     "static/media/tictactoeportfolio.png": "/portfolio-alp/static/media/tictactoeportfolio.16fb9a654dcf2787a635.png",
-    "static/media/AlperenAkin-Resume.pdf": "/portfolio-alp/static/media/AlperenAkin-Resume.4561f1b71b91c93d5f1b.pdf",
+    "static/media/AlperenAkin-Resume.pdf": "/portfolio-alp/static/media/AlperenAkin-Resume.e0396ed26b6834a21281.pdf",
+    "static/media/SalesforceLogo.png": "/portfolio-alp/static/media/SalesforceLogo.ecbea20f81322e8683ba.png",
+    "static/media/JiraLogo.png": "/portfolio-alp/static/media/JiraLogo.f33154044bef743ccc2b.png",
+    "static/media/LookerStudioLogo.png": "/portfolio-alp/static/media/LookerStudioLogo.66c3509630fc0ee60652.png",
+    "static/media/ReactLogo.png": "/portfolio-alp/static/media/ReactLogo.1c2c57661752bb179c34.png",
     "static/media/DBMSportfolio.png": "/portfolio-alp/static/media/DBMSportfolio.f9710adfa2764ef1294f.png",
     "index.html": "/portfolio-alp/index.html",
-    "main.10e7497e.css.map": "/portfolio-alp/static/css/main.10e7497e.css.map",
-    "main.e7a84b19.js.map": "/portfolio-alp/static/js/main.e7a84b19.js.map"
+    "main.72144d2f.css.map": "/portfolio-alp/static/css/main.72144d2f.css.map",
+    "main.34144331.js.map": "/portfolio-alp/static/js/main.34144331.js.map"
   },
   "entrypoints": [
-    "static/css/main.10e7497e.css",
-    "static/js/main.e7a84b19.js"
+    "static/css/main.72144d2f.css",
+    "static/js/main.34144331.js"
   ]
 }
