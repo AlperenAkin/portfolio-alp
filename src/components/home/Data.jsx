@@ -56,10 +56,10 @@ const Data = () => {
             </svg>
         </h1>
         <h3 className="home__subtitle">
-            Full-Stack Developer + Designer
+            Data science + Full-Stack
         </h3>
         <p className="home__description">
-            Third year Computer Science student at the University of Ottawa with a passion for web development.
+            Fourth-year Computer Science student at the University of Ottawa. Passionate about building scalable full-stack applications and data-driven solutions.
         </p>
 
         <a href="#contact" className="button button--flex">

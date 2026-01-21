@@ -1,5 +1,5 @@
 import React from 'react';
-import { HiOutlineDesktopComputer, HiOutlineSparkles } from "react-icons/hi";
+import { HiOutlineDesktopComputer } from "react-icons/hi";
 import { IoSchoolSharp } from "react-icons/io5";
 import { FaGithub } from "react-icons/fa";
 
@@ -14,7 +14,7 @@ const Info = () => {
         <div className="about__box">
             <HiOutlineDesktopComputer className="about__icon" />
             <h3 className="about__title">Degree</h3>
-            <span className="about__subtitle">Bachelor's degree in Computer Science</span>
+            <span className="about__subtitle">Honours BSc in Computer Science</span>
         </div>
         <div className="about__box">
             <FaGithub className="about__icon" />

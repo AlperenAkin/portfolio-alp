@@ -77,3 +77,17 @@
         font-size: var(--small-font-size);
     }
 }
+
+.logoimages {
+  height: 50px; /* Sets a specific width */
+  width: auto; /* Automatically adjusts height to maintain aspect ratio */
+  padding-right: 10px;
+}
+
+.logos__container {
+    text-align: center;
+    padding-top: 20px;
+
+    justify-content: center;
+
+}
