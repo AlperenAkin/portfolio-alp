@@ -8,6 +8,7 @@ import pythonlogo from "../../assets/pythonLogo.png";
 import lookerlogo from "../../assets/LookerStudioLogo.png";
 import jiralogo from "../../assets/JiraLogo.png";
 import reactlogo from "../../assets/ReactLogo.png";
+import colablogo from "../../assets/google_colab_icon.png"
 
 
 
@@ -28,7 +29,7 @@ const Skills = () => {
           <img src={lookerlogo} alt="Salesforce" className='logoimages'/>
           <img src={jiralogo} alt="Salesforce" className='logoimages'/>
           <img src={reactlogo} alt="Salesforce" className='logoimages'/>
-          
+          <img src={colablogo} alt="Salesforce" className='logoimages'/>
 
         </div>
 
